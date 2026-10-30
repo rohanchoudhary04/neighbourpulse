@@ -102,7 +102,7 @@ export const App: React.FC = () => {
     <QueryClientProvider client={queryClient}>
       <AuthProvider>
         <LocationProvider>
-          <BrowserRouter>
+          <BrowserRouter basename={import.meta.env.BASE_URL}>
             <Routes>
               {/* Public Auth Routes */}
               <Route path="/login" element={<LoginPage />} />
