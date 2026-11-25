@@ -4,6 +4,30 @@
 NeighbourPulse is a mobile-first web application designed for residents and administrators of residential societies and neighbourhoods. It enables residents to report local issues, discover and corroborate existing incidents within proximity to prevent duplicate reports, track operational status in real-time, and monitor a transparent Community Health Score.
 
 ---
+## 🔑 Demo Access Credentials
+
+You can explore NeighbourPulse using the following demo accounts.
+
+### 🏠 Resident Login
+- **Email:** mike.demoyt@gmail.com
+- **Password:** mike12345
+- **Access:** Report local complaints and explore resident features.
+
+### 🛡️ Admin Login
+- **Email:** imrohan.choudhary@gmail.com
+- **Password:** rohan12345
+- **Access:** Access the admin dashboard and manage reported complaints.
+
+### 🌐 Live Demo
+https://rohanchoudhary04.github.io/neighbourpulse/
+
+**How to access:**
+1. Open the live website.
+2. Select the appropriate login option.
+3. Enter the demo credentials.
+4. Explore the available features.
+
+*These accounts are provided for project evaluation purposes.*
 
 ## 🚀 Key Differentiator: Duplicate Suggestions & Proximity Corroboration
 
